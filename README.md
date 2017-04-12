@@ -20,3 +20,6 @@ http://stackoverflow.com/questions/500431/what-is-the-scope-of-variables-in-java
 
 ### Modulos
 https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.67vswxqq0
+
+## Ionic
+- Slide tabs ionic https://github.com/zyra/ionic2-super-tabs
